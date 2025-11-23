@@ -1,0 +1,7 @@
+Pool 1 URL:#stratum+tcp://btc.viabtc.io:3333
+Pool 2 URL:#stratum+tcp://btc.viabtc.io:25
+Pool 3 URL:#stratum+tcp://btc.viabtc.io:443
+
+Worker:#georgibtc1111.001
+
+Password:#123
